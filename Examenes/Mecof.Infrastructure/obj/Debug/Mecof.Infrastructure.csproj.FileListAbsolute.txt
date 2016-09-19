@@ -1,0 +1,31 @@
+C:\Users\Public\Rototrans-MECOF\Source\MecofApplication\Mecof.Infrastructure\bin\Debug\Mecof.Infrastructure.dll
+C:\Users\Public\Rototrans-MECOF\Source\MecofApplication\Mecof.Infrastructure\bin\Debug\Mecof.Infrastructure.pdb
+C:\Users\Public\Rototrans-MECOF\Source\MecofApplication\Mecof.Infrastructure\bin\Debug\log4net.dll
+C:\Users\Public\Rototrans-MECOF\Source\MecofApplication\Mecof.Infrastructure\bin\Debug\log4net.xml
+C:\Users\Public\Rototrans-MECOF\Source\MecofApplication\Mecof.Infrastructure\obj\Debug\Mecof.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\Public\Rototrans-MECOF\Source\MecofApplication\Mecof.Infrastructure\obj\Debug\Mecof.Infrastructure.dll
+C:\Users\Public\Rototrans-MECOF\Source\MecofApplication\Mecof.Infrastructure\obj\Debug\Mecof.Infrastructure.pdb
+D:\MecofApplication\Mecof.Infrastructure\bin\Debug\Mecof.Infrastructure.dll
+D:\MecofApplication\Mecof.Infrastructure\bin\Debug\Mecof.Infrastructure.pdb
+D:\MecofApplication\Mecof.Infrastructure\bin\Debug\log4net.dll
+D:\MecofApplication\Mecof.Infrastructure\bin\Debug\log4net.xml
+D:\MecofApplication\Mecof.Infrastructure\obj\Debug\Mecof.Infrastructure.csprojResolveAssemblyReference.cache
+D:\MecofApplication\Mecof.Infrastructure\obj\Debug\Mecof.Infrastructure.dll
+D:\MecofApplication\Mecof.Infrastructure\obj\Debug\Mecof.Infrastructure.pdb
+C:\CSCDATA\TBD\Ejemplos Ivan\MecofApplication\Mecof.Infrastructure\bin\Debug\Mecof.Infrastructure.dll
+C:\CSCDATA\TBD\Ejemplos Ivan\MecofApplication\Mecof.Infrastructure\bin\Debug\Mecof.Infrastructure.pdb
+C:\CSCDATA\TBD\Ejemplos Ivan\MecofApplication\Mecof.Infrastructure\bin\Debug\log4net.dll
+C:\CSCDATA\TBD\Ejemplos Ivan\MecofApplication\Mecof.Infrastructure\bin\Debug\log4net.xml
+C:\CSCDATA\TBD\Ejemplos Ivan\MecofApplication\Mecof.Infrastructure\obj\Debug\Mecof.Infrastructure.csprojResolveAssemblyReference.cache
+C:\CSCDATA\TBD\Ejemplos Ivan\MecofApplication\Mecof.Infrastructure\obj\Debug\Mecof.Infrastructure.dll
+C:\CSCDATA\TBD\Ejemplos Ivan\MecofApplication\Mecof.Infrastructure\obj\Debug\Mecof.Infrastructure.pdb
+C:\CSCDATA\TBD\Requisitos de la aplicacion\Requisitos forms\WindowsFormsApplication3\Mecof.Infrastructure\bin\Debug\Mecof.Infrastructure.dll
+C:\CSCDATA\TBD\Requisitos de la aplicacion\Requisitos forms\WindowsFormsApplication3\Mecof.Infrastructure\bin\Debug\Mecof.Infrastructure.pdb
+C:\CSCDATA\TBD\Requisitos de la aplicacion\Requisitos forms\WindowsFormsApplication3\Mecof.Infrastructure\obj\Debug\Mecof.Infrastructure.csprojResolveAssemblyReference.cache
+C:\CSCDATA\TBD\Requisitos de la aplicacion\Requisitos forms\WindowsFormsApplication3\Mecof.Infrastructure\obj\Debug\Mecof.Infrastructure.dll
+C:\CSCDATA\TBD\Requisitos de la aplicacion\Requisitos forms\WindowsFormsApplication3\Mecof.Infrastructure\obj\Debug\Mecof.Infrastructure.pdb
+F:\CSCDATA\TBD\Version 1.0\TBD\Mecof.Infrastructure\bin\Debug\Mecof.Infrastructure.dll
+F:\CSCDATA\TBD\Version 1.0\TBD\Mecof.Infrastructure\bin\Debug\Mecof.Infrastructure.pdb
+F:\CSCDATA\TBD\Version 1.0\TBD\Mecof.Infrastructure\obj\Debug\Mecof.Infrastructure.csprojResolveAssemblyReference.cache
+F:\CSCDATA\TBD\Version 1.0\TBD\Mecof.Infrastructure\obj\Debug\Mecof.Infrastructure.dll
+F:\CSCDATA\TBD\Version 1.0\TBD\Mecof.Infrastructure\obj\Debug\Mecof.Infrastructure.pdb

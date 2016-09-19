@@ -1,0 +1,10 @@
+C:\CSCDATA\TBD\Version 1.0\TBD\Mecof.Infrastructure\bin\Debug\Mecof.Infrastructure.dll
+C:\CSCDATA\TBD\Version 1.0\TBD\Mecof.Infrastructure\bin\Debug\Mecof.Infrastructure.pdb
+C:\CSCDATA\TBD\Version 1.0\TBD\Mecof.Infrastructure\obj\Release\Mecof.Infrastructure.csprojResolveAssemblyReference.cache
+C:\CSCDATA\TBD\Version 1.0\TBD\Mecof.Infrastructure\obj\Release\Mecof.Infrastructure.dll
+C:\CSCDATA\TBD\Version 1.0\TBD\Mecof.Infrastructure\obj\Release\Mecof.Infrastructure.pdb
+F:\CSCDATA\TBD\Version 1.0\TBD\Mecof.Infrastructure\bin\Debug\Mecof.Infrastructure.dll
+F:\CSCDATA\TBD\Version 1.0\TBD\Mecof.Infrastructure\bin\Debug\Mecof.Infrastructure.pdb
+F:\CSCDATA\TBD\Version 1.0\TBD\Mecof.Infrastructure\obj\Release\Mecof.Infrastructure.csprojResolveAssemblyReference.cache
+F:\CSCDATA\TBD\Version 1.0\TBD\Mecof.Infrastructure\obj\Release\Mecof.Infrastructure.dll
+F:\CSCDATA\TBD\Version 1.0\TBD\Mecof.Infrastructure\obj\Release\Mecof.Infrastructure.pdb

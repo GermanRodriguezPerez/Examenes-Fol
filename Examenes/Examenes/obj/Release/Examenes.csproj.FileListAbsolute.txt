@@ -1,0 +1,11 @@
+C:\Users\grodriguezpe\Desktop\Chema\Examenes\Examenes\bin\Release\Examenes.exe.config
+C:\Users\grodriguezpe\Desktop\Chema\Examenes\Examenes\bin\Release\Examenes.exe
+C:\Users\grodriguezpe\Desktop\Chema\Examenes\Examenes\bin\Release\Examenes.pdb
+C:\Users\grodriguezpe\Desktop\Chema\Examenes\Examenes\bin\Release\Mecof.Infrastructure.dll
+C:\Users\grodriguezpe\Desktop\Chema\Examenes\Examenes\bin\Release\log4net.dll
+C:\Users\grodriguezpe\Desktop\Chema\Examenes\Examenes\bin\Release\Mecof.Infrastructure.pdb
+C:\Users\grodriguezpe\Desktop\Chema\Examenes\Examenes\obj\Release\Examenes.Principal_Vista.resources
+C:\Users\grodriguezpe\Desktop\Chema\Examenes\Examenes\obj\Release\Examenes.Properties.Resources.resources
+C:\Users\grodriguezpe\Desktop\Chema\Examenes\Examenes\obj\Release\Examenes.csproj.GenerateResource.Cache
+C:\Users\grodriguezpe\Desktop\Chema\Examenes\Examenes\obj\Release\Examenes.exe
+C:\Users\grodriguezpe\Desktop\Chema\Examenes\Examenes\obj\Release\Examenes.pdb
