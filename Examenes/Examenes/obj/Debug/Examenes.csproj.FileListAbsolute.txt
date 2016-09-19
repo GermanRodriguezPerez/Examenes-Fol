@@ -7,3 +7,6 @@ C:\Users\grodriguezpe\Desktop\Chema\Examenes\Examenes\obj\Debug\Examenes.Propert
 C:\Users\grodriguezpe\Desktop\Chema\Examenes\Examenes\obj\Debug\Examenes.csproj.GenerateResource.Cache
 C:\Users\grodriguezpe\Desktop\Chema\Examenes\Examenes\obj\Debug\Examenes.exe
 C:\Users\grodriguezpe\Desktop\Chema\Examenes\Examenes\obj\Debug\Examenes.pdb
+C:\Users\grodriguezpe\Desktop\Chema\Examenes\Examenes\bin\Debug\Mecof.Infrastructure.dll
+C:\Users\grodriguezpe\Desktop\Chema\Examenes\Examenes\bin\Debug\log4net.dll
+C:\Users\grodriguezpe\Desktop\Chema\Examenes\Examenes\bin\Debug\Mecof.Infrastructure.pdb

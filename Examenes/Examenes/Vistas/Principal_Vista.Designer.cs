@@ -37,13 +37,13 @@
             this.Dificultad = new System.Windows.Forms.ComboBox();
             this.Tema = new System.Windows.Forms.ComboBox();
             this.Asignaturas = new System.Windows.Forms.ComboBox();
-            this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.Resultados = new System.Windows.Forms.DataGridView();
             this.Ejercicios = new System.Windows.Forms.TabPage();
             this.Examenes = new System.Windows.Forms.TabPage();
             this.Opciones = new System.Windows.Forms.TabPage();
             this.tabControl1.SuspendLayout();
             this.Preguntas.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Resultados)).BeginInit();
             this.SuspendLayout();
             // 
             // tabControl1
@@ -67,7 +67,7 @@
             this.Preguntas.Controls.Add(this.Dificultad);
             this.Preguntas.Controls.Add(this.Tema);
             this.Preguntas.Controls.Add(this.Asignaturas);
-            this.Preguntas.Controls.Add(this.dataGridView1);
+            this.Preguntas.Controls.Add(this.Resultados);
             this.Preguntas.Location = new System.Drawing.Point(4, 22);
             this.Preguntas.Name = "Preguntas";
             this.Preguntas.Padding = new System.Windows.Forms.Padding(3);
@@ -84,6 +84,7 @@
             this.AñadirPregunta.TabIndex = 5;
             this.AñadirPregunta.Text = "Añadir";
             this.AñadirPregunta.UseVisualStyleBackColor = true;
+            this.AñadirPregunta.Click += new System.EventHandler(this.AñadirPregunta_Click);
             // 
             // label3
             // 
@@ -136,17 +137,17 @@
             this.Asignaturas.Size = new System.Drawing.Size(121, 21);
             this.Asignaturas.TabIndex = 1;
             // 
-            // dataGridView1
+            // Resultados
             // 
-            this.dataGridView1.AllowUserToAddRows = false;
-            this.dataGridView1.AllowUserToDeleteRows = false;
-            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(6, 68);
-            this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.ReadOnly = true;
-            this.dataGridView1.Size = new System.Drawing.Size(618, 308);
-            this.dataGridView1.TabIndex = 0;
-            this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
+            this.Resultados.AllowUserToAddRows = false;
+            this.Resultados.AllowUserToDeleteRows = false;
+            this.Resultados.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.Resultados.Location = new System.Drawing.Point(6, 68);
+            this.Resultados.Name = "Resultados";
+            this.Resultados.ReadOnly = true;
+            this.Resultados.Size = new System.Drawing.Size(618, 308);
+            this.Resultados.TabIndex = 0;
+            this.Resultados.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
             // 
             // Ejercicios
             // 
@@ -187,7 +188,7 @@
             this.tabControl1.ResumeLayout(false);
             this.Preguntas.ResumeLayout(false);
             this.Preguntas.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Resultados)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -205,7 +206,7 @@
         public System.Windows.Forms.ComboBox Dificultad;
         public System.Windows.Forms.ComboBox Tema;
         public System.Windows.Forms.ComboBox Asignaturas;
-        public System.Windows.Forms.DataGridView dataGridView1;
+        public System.Windows.Forms.DataGridView Resultados;
         public System.Windows.Forms.Button AñadirPregunta;
     }
 }
