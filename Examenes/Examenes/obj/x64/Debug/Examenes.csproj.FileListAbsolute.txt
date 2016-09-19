@@ -7,3 +7,5 @@ C:\Users\grodriguezpe\Desktop\Chema\Examenes\Examenes\obj\x64\Debug\Examenes.csp
 C:\Users\grodriguezpe\Desktop\Chema\Examenes\Examenes\obj\x64\Debug\Examenes.exe
 C:\Users\grodriguezpe\Desktop\Chema\Examenes\Examenes\obj\x64\Debug\Examenes.pdb
 C:\Users\grodriguezpe\Desktop\Chema\Examenes\Examenes\obj\x64\Debug\Examenes.csprojResolveAssemblyReference.cache
+C:\Users\grodriguezpe\Desktop\Chema\Examenes\Examenes\bin\x64\Debug\p1.mdf
+C:\Users\grodriguezpe\Desktop\Chema\Examenes\Examenes\bin\x64\Debug\p1_log.ldf

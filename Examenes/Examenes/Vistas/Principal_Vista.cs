@@ -43,8 +43,8 @@ namespace Examenes
             string query = null;
 
 
-
-            connetionString = "Data Source=(localdb)\\V11.0;Initial Catalog=Examenes;Integrated Security = true;AttachDBFilename=|DataDirectory|\\Examenes.mdf";
+            connetionString = System.Configuration.ConfigurationManager.ConnectionStrings["Examenes.Properties.Settings.p1ConnectionString"].ConnectionString;
+                        //connetionString = "Data Source=(localdb)\\V11.0;Initial Catalog=Examenes;Integrated Security = true;AttachDBFilename=|DataDirectory|\\Examenes.mdf";
             //connetionString = "Data Source=(LocalDB)\v11.0;Initial Catalog=Examenes;Integrated Security=True"
 
             try
