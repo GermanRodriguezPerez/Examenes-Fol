@@ -44,7 +44,7 @@ namespace Examenes
 
 
 
-            connetionString = "Data Source=(localdb)\\V11.0;Initial Catalog=Examenes;Integrated Security = true";
+            connetionString = "Data Source=(localdb)\\V11.0;Initial Catalog=Examenes;Integrated Security = true;AttachDBFilename=|DataDirectory|\\Examenes.mdf";
             //connetionString = "Data Source=(LocalDB)\v11.0;Initial Catalog=Examenes;Integrated Security=True"
 
             try

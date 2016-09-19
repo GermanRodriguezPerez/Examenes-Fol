@@ -6,3 +6,4 @@ C:\Users\grodriguezpe\Desktop\Chema\Examenes\Examenes\obj\x64\Debug\Examenes.Pro
 C:\Users\grodriguezpe\Desktop\Chema\Examenes\Examenes\obj\x64\Debug\Examenes.csproj.GenerateResource.Cache
 C:\Users\grodriguezpe\Desktop\Chema\Examenes\Examenes\obj\x64\Debug\Examenes.exe
 C:\Users\grodriguezpe\Desktop\Chema\Examenes\Examenes\obj\x64\Debug\Examenes.pdb
+C:\Users\grodriguezpe\Desktop\Chema\Examenes\Examenes\obj\x64\Debug\Examenes.csprojResolveAssemblyReference.cache
