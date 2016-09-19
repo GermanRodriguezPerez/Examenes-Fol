@@ -1,0 +1,9 @@
+C:\Users\grodriguezpe\Desktop\Chema\Examenes\Examenes\bin\Debug\Examenes.exe.config
+C:\Users\grodriguezpe\Desktop\Chema\Examenes\Examenes\bin\Debug\Examenes.exe
+C:\Users\grodriguezpe\Desktop\Chema\Examenes\Examenes\bin\Debug\Examenes.pdb
+C:\Users\grodriguezpe\Desktop\Chema\Examenes\Examenes\obj\Debug\Examenes.csprojResolveAssemblyReference.cache
+C:\Users\grodriguezpe\Desktop\Chema\Examenes\Examenes\obj\Debug\Examenes.Principal_Vista.resources
+C:\Users\grodriguezpe\Desktop\Chema\Examenes\Examenes\obj\Debug\Examenes.Properties.Resources.resources
+C:\Users\grodriguezpe\Desktop\Chema\Examenes\Examenes\obj\Debug\Examenes.csproj.GenerateResource.Cache
+C:\Users\grodriguezpe\Desktop\Chema\Examenes\Examenes\obj\Debug\Examenes.exe
+C:\Users\grodriguezpe\Desktop\Chema\Examenes\Examenes\obj\Debug\Examenes.pdb
